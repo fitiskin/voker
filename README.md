@@ -38,3 +38,7 @@ npm install voker
 ```sh
 yarn add voker
 ```
+
+## Documentation
+
+- [API Reference](./docs/api-reference.md)
